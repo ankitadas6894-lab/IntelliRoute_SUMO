@@ -1,0 +1,128 @@
+[
+  {
+    "source": "D",
+    "destination": "H",
+    "traffic_level": "LOW",
+    "avg_speed_mps": 28.5,
+    "total_travel_time_sec": 145
+  },
+  {
+    "source": "D",
+    "destination": "H",
+    "traffic_level": "MEDIUM",
+    "avg_speed_mps": 18.2,
+    "total_travel_time_sec": 230
+  },
+  {
+    "source": "D",
+    "destination": "H",
+    "traffic_level": "HIGH",
+    "avg_speed_mps": 10.09,
+    "total_travel_time_sec": 366
+  },
+  {
+    "source": "D",
+    "destination": "F",
+    "traffic_level": "LOW",
+    "avg_speed_mps": 30,
+    "total_travel_time_sec": 100
+  },
+  {
+    "source": "D",
+    "destination": "F",
+    "traffic_level": "MEDIUM",
+    "avg_speed_mps": 30,
+    "total_travel_time_sec": 100
+  },
+  {
+    "source": "D",
+    "destination": "F",
+    "traffic_level": "HIGH",
+    "avg_speed_mps": 30,
+    "total_travel_time_sec": 100
+  },
+  {
+    "source": "F",
+    "destination": "H",
+    "traffic_level": "LOW",
+    "avg_speed_mps": 22.5,
+    "total_travel_time_sec": 190
+  },
+  {
+    "source": "F",
+    "destination": "H",
+    "traffic_level": "MEDIUM",
+    "avg_speed_mps": 14.0,
+    "total_travel_time_sec": 300
+  },
+  {
+    "source": "F",
+    "destination": "H",
+    "traffic_level": "HIGH",
+    "avg_speed_mps": 7.5,
+    "total_travel_time_sec": 560
+  },
+  {
+    "source": "E",
+    "destination": "H",
+    "traffic_level": "LOW",
+    "avg_speed_mps": 30.0,
+    "total_travel_time_sec": 160
+  },
+  {
+    "source": "E",
+    "destination": "H",
+    "traffic_level": "MEDIUM",
+    "avg_speed_mps": 20.0,
+    "total_travel_time_sec": 240
+  },
+  {
+    "source": "E",
+    "destination": "H",
+    "traffic_level": "HIGH",
+    "avg_speed_mps": 11.5,
+    "total_travel_time_sec": 420
+  },
+  {
+    "source": "E",
+    "destination": "F",
+    "traffic_level": "LOW",
+    "avg_speed_mps": 27.8,
+    "total_travel_time_sec": 95
+  },
+  {
+    "source": "E",
+    "destination": "F",
+    "traffic_level": "MEDIUM",
+    "avg_speed_mps": 16.2,
+    "total_travel_time_sec": 160
+  },
+  {
+    "source": "E",
+    "destination": "F",
+    "traffic_level": "HIGH",
+    "avg_speed_mps": 9.4,
+    "total_travel_time_sec": 280
+  },
+  {
+    "source": "H",
+    "destination": "F",
+    "traffic_level": "LOW",
+    "avg_speed_mps": 26.5,
+    "total_travel_time_sec": 155
+  },
+  {
+    "source": "H",
+    "destination": "F",
+    "traffic_level": "MEDIUM",
+    "avg_speed_mps": 17.1,
+    "total_travel_time_sec": 225
+  },
+  {
+    "source": "H",
+    "destination": "F",
+    "traffic_level": "HIGH",
+    "avg_speed_mps": 9.2,
+    "total_travel_time_sec": 390
+  }
+]

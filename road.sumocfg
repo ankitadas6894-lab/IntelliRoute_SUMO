@@ -1,0 +1,13 @@
+<configuration>
+    <input>
+        <net-file value="road.net.xml"/>
+        <route-files value="road.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+    <report>
+        <no-step-log value="true"/>
+    </report>
+</configuration>

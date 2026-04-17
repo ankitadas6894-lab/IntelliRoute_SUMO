@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2026-03-31T16:39:12.194175",
+        "inputs": {
+            "Traffic": "string",
+            "Speed": 0.0,
+            "Vehicle": "string",
+            "Objective": "string"
+        },
+        "suggestion": "Error connecting to LLM. Please ensure your local model server is running."
+    },
+    {
+        "timestamp": "2026-03-31T16:43:48.842763",
+        "inputs": {
+            "Traffic": "High",
+            "Speed": 30.0,
+            "Vehicle": "car",
+            "Objective": "fastest"
+        },
+        "suggestion": "Error connecting to LLM. Please ensure your local model server is running."
+    },
+    {
+        "timestamp": "2026-03-31T16:45:38.409304",
+        "inputs": {
+            "Traffic": "medium",
+            "Speed": 60.0,
+            "Vehicle": "car",
+            "Objective": "fastest"
+        },
+        "suggestion": "Error connecting to LLM. Please ensure your local model server is running."
+    }
+]

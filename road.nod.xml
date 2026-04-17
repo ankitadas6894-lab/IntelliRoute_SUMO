@@ -1,0 +1,22 @@
+<nodes>
+    <node id="a" x="100" y="100" type="priority"/>
+    <node id="b" x="200" y="100" type="priority"/>
+    
+    <node id="k" x="50"  y="200" type="priority"/>
+    <node id="l" x="125" y="200" type="priority"/>
+    <node id="m" x="200" y="200" type="priority"/>
+    <node id="n" x="275" y="200" type="priority"/>
+
+    <node id="f" x="125" y="300" type="priority"/>
+    <node id="g" x="225" y="300" type="priority"/>
+
+    <node id="d" x="125" y="400" type="priority"/>
+    <node id="e" x="225" y="400" type="priority"/>
+    <node id="i" x="500" y="400" type="priority"/>
+    <node id="j" x="650" y="300" type="priority"/>
+
+    <node id="c" x="500" y="100" type="priority"/>
+    <node id="h" x="650" y="100" type="priority"/>
+    <node id="o" x="575" y="150" type="priority"/>
+    <node id="p" x="575" y="50"  type="priority"/>
+</nodes>

@@ -1,0 +1,14 @@
+{
+    "metadata": {
+        "requested_traffic_condition": "High",
+        "vehicle_type": "Car",
+        "selected_objective": "Safest"
+    },
+    "all_routes": [
+        {
+            "from": "d",
+            "to": "h",
+            "error": "Node ID error: Not connected."
+        }
+    ]
+}
